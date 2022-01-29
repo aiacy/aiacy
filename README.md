@@ -4,6 +4,7 @@ I'm a Full stack developer, creating resources to help self taught programmers n
 
 Currently located: Toronto, Ontario
 
+Some places you can find me:
 
 
 <!---
