@@ -6,6 +6,9 @@ Currently located: Toronto, Ontario
 
 Some places you can find me:
 
+Instagram
+YouTube
+Twitter
 
 <!---
 aiacy/aiacy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
