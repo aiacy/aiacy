@@ -1,3 +1,8 @@
+Aliyah Regina | 
+💻 A software developer helping self taught developers
+✨ Romanticizing programming
+🎧 Synthwave enthusiast
+
 👋 Hi, I’m @aiacy aka Aliyah Regina of Am I A Coder Yet
 
 I'm a Full stack developer, creating resources to help self taught programmers navigate through their first Bambi steps to securing a job and doing something with passion everyday.
