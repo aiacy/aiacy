@@ -11,9 +11,9 @@ Currently located: Toronto, Ontario
 Currently learning: Google Cloud Platform
 Some places you can find me:
 
-Instagram
-YouTube
-Twitter
+[Instagram](https://www.instagram.com/amiacoderyet/)
+[YouTube](https://www.youtube.com/channel/UCNo8T__83Ze_Uxjk-epTzUA/)
+[Twitter](https://twitter.com/amiacoderyet)
 
 <!---
 aiacy/aiacy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
