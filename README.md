@@ -38,25 +38,18 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/aliyahregina"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aliyahregina" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/aliyahregina"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aliyahregina" /></a></p>  <br>
+
+
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2054%20mins-blue)
+<br>
+<br>
+<br>
+<br>
+<h3>I'm WakaTime obsessed ✨💁🏾‍♀️</h3>
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
-**🐱 My GitHub Data** 
-
-> 🏆 123 Contributions in the Year 2022
- > 
-> 📦 11.3 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 7 Public Repositories 
- > 
-> 🔑 0 Private Repositories  
- > 
 **I'm an Early 🐤** 
 
 ```text
@@ -114,10 +107,6 @@ JavaScript               1 repo              █████░░░░░░�
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/aiacy/aiacy/main/charts/bar_graph.png) 
 
 
  Last Updated on 05/03/2022 19:17:57 UTC
