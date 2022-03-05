@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **e-commerce platforms, interactive design, and design systems**
 
-- 👨‍💻 All of my links are available at [aiacy.github.io](aiacy.github.io)
+- 👨‍💻 All of my links are available at [aiacy.github.io](https://aiacy.github.io)
 
 - 💬 Ask me about **My self taught journey**
 
