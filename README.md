@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [a Waka Time Discord Bot](https://github.com/aiacy/Waka-Bot.git)
 
-- 🌱 I’m currently learning **Google Cloud Certified Professional Cloud Arit**
+- 🌱 I’m currently learning **Google Cloud Certified Professional Cloud Aritecture**
 
 - 👯 I’m looking to collaborate on **e-commerce platforms, interactive design, and design systems**
 
